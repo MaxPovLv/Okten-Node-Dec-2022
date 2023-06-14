@@ -1,0 +1,7 @@
+{
+  "name": "Okten-Node-Dec-2022",
+  "version": "1.0.0",
+  "devDependencies": {
+    "express": "^4.18.2"
+  }
+}
